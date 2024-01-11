@@ -1,0 +1,1 @@
+print("Hello black cat")
